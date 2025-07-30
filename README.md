@@ -311,23 +311,18 @@ POST /api/v1/authentication/          # Autenticação
 - `Update:` - Atualização de funcionalidade
 - `Remove:` - Remoção de código
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para detalhes.
-
 ## 👨‍💻 Autor
 
 **Gustavo Cassiano**
-- Email: gucpinto26@gmail.com
-- LinkedIn: linkedin.com/in/gustavocassiano-dev
-- GitHub: guscassiano
+- Email: [gucpinto26@gmail.com]
+- LinkedIn: [https://linkedin.com/in/gustavocassiano-dev]
+- GitHub: [https://github.com/guscassiano]
 
 ---
 
 ## 🔗 Repositórios Relacionados
 
-- **Backend (Flix API)**:
-- **Documentação da API**: [Link para documentação]
+- **Backend (Flix API)**: [https://github.com/guscassiano/flix_api]
 
 ---
 
