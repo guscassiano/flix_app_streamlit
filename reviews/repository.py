@@ -8,7 +8,7 @@ class ReviewsRepository:
 
     def __init__(self):
         # self.__base_url = 'https://guzzcass.pythonanywhere.com/api/v1'
-        self.__base_url = "http://localhost:8000/api/v1"
+        self.__base_url = "http://guzzcass.pythonanywhere.com/api/v1"
         self.__reviews_url = f"{self.__base_url}/reviews/"
         self.__headers = {
             "Authorization": f"Bearer {st.session_state.token}"

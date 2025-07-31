@@ -101,7 +101,7 @@ No arquivo `repository.py` de cada módulo, configure a URL do backend:
 self.__base_url = "http://localhost:8000/api/v1"
 
 # Para produção
-self.__base_url = "https://sua-api.herokuapp.com/api/v1"
+self.__base_url = "http://guzzcass.pythonanywhere.com/api/v1"
 ```
 
 ### 5. Executar aplicação
@@ -238,7 +238,7 @@ CMD ["streamlit", "run", "app.py", "--server.address", "0.0.0.0"]
 ### Erro: "Connection Error"
 ```bash
 # Verificar se o backend está rodando
-curl http://localhost:8000/api/v1/
+curl http://guzzcass.pythonanywhere.com/api/v1/
 
 # Verificar URL no repository.py
 ```
