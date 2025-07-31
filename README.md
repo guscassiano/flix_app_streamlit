@@ -314,15 +314,15 @@ POST /api/v1/authentication/          # Autenticação
 ## 👨‍💻 Autor
 
 **Gustavo Cassiano**
-- Email: [gucpinto26@gmail.com]
-- LinkedIn: https://linkedin.com/in/gustavocassiano-dev
-- GitHub: https://github.com/guscassiano
+- Email: [[gucpinto26@gmail.com]]
+- LinkedIn: https://[https://linkedin.com/in/gustavocassiano-dev]
+- GitHub: https://github.com/[https://github.com/guscassiano]
 
 ---
 
 ## 🔗 Repositórios Relacionados
 
-- **Backend (Flix API)**: https://github.com/guscassiano/flix_api
+- **Backend (Flix API)**: [https://github.com/guscassiano/flix_api]
 
 ---
 
